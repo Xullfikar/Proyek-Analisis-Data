@@ -2,7 +2,7 @@
 Studi Kasus Belajar Analisis Data dengan Python
 
 # Setup environtment
-```bash
+```python
 pipenv shell
 jupyter-notebook
 ```
